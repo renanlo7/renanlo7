@@ -1,16 +1,17 @@
-## Hi there 👋
+ ## Olá mundo, meu nome é Renan👋
 
-<!--
-**renanlo7/renanlo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou procurando minha primeira vaga Desenvolvedor de Software.
 
-Here are some ideas to get you started:
+Brasil 📌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <b> 💻 Skills:</b> <br> <br>
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img alt="javaScript" src="https://img.shields.io/badge/-javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/>
+<img alt="python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white"/>
+<img alt="nodejs" src="https://img.shields.io/badge/-nodeJs-68A063?style=flat-square&logo=nodejs&logoColor=white"/>
+   </div>
+
+ 
+
+<div><a href="https://github.com/renanlo7"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanlo7&layout=compact&langs_count=7&theme=dracula"/></div><div style="display: inline_block"><br>
