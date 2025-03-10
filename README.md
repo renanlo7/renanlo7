@@ -1,6 +1,6 @@
  ## Olá mundo, meu nome é Renan👋
 
-Atualmente estou procurando minha primeira vaga Desenvolvedor de Software.
+Atualmente estou procurando minha primeira vaga como Desenvolvedor de Software.
 
 Brasil 📌
 
